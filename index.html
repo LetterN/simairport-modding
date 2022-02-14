@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>SimAirport Script Modding | SimAirport Docs </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="SimAirport Script Modding | SimAirport Docs ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    
+    <link rel="shortcut icon" href="./images/tabIcon.png">
+    <link rel="stylesheet" href="styles/docfx.vendor.css">
+    <link rel="stylesheet" href="styles/docfx.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <meta property="docfx:navrel" content="toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="">
+    <meta property="docfx:newtab" content="true">
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" style="align-items: center; display: flex;" href="index.html">
+                <img id="logo" style="height: 39px" src="./images/logo.png" alt="">
+              </a>    </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        <div class="article row grid">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+
+<img src="images/tabIcon.png" align="right" style="height: 128px">
+<h1 id="simairport-script-modding">SimAirport Script Modding</h1>
+<p>Documentation and guides for the SimAirport Scripting API.</p>
+<p>For basic modding (airlines, translation, material, component configs, etc...), use the <a href="https://github.com/lvgamedev/simairport-modding/wiki">wiki</a> instead.</p>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li>Some IDE like <a href="https://visualstudio.microsoft.com/downloads">Visual Studio</a>, a normal text editor does the job too but it's way harder.</li>
+<li>The <code>SimAirport.Modding</code> library.</li>
+<li><del>The guts and will to do so.</del></li>
+<li>Experience with c# class libraries and <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471">.Net framework 4.7.1</a>.</li>
+<li>Unity (optional, check your log file for the current version, it's one of the first lines).</li>
+</ul>
+<h2 id="the-simairportmodding-library">The <code>SimAirport.Modding</code> Library</h2>
+<p>The library is required to load scriptmods in. It also contains helper functions to make scriptmodding easier!</p>
+<h3 id="localy-obtaining">Localy Obtaining</h3>
+<p>You can localy obtain a compiled version at <code>steamapps\common\SimAirport\SimAirport_Data\Managed\SimAirport.Modding.Base.dll</code>.</p>
+<h3 id="downloading">Downloading</h3>
+<p>The API can be downloaded from <a href="https://www.nuget.org/packages/SimAirport.Modding/1.0.0">NuGet</a>.</p>
+<h3 id="manual-compilation">Manual Compilation</h3>
+<p>You can compile the repository's code to build a <code>DLL</code> which you can reference on your scriptmod. By default, the project file should be able to find the dependencies. If this fails, you can manually reference them by going to your <code>steamapps\common\SimAirport\SimAirport_Data\Managed</code> and manually referencing it.</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/LetterN/simairport-modding/blob/docs/docs/index.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="toggle-mode">
+                <div class="icon">
+                  <i aria-hidden="true">☀</i>
+                </div>
+                <label class="switch">
+                  <input type="checkbox" id="switch-style">
+                  <span class="slider round"></span>
+                </label>
+                <div class="icon">
+                  <i aria-hidden="true">☾</i>
+                </div>
+              </div>
+          
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <h5>In This Article</h5>
+              <div></div>
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            <div class="pull-left">
+              
+              <span>Generated by <strong>DocFX</strong></span>
+            </div>
+            <div class="toggle-mode pull-right visible-sm visible-xs">
+              <div class="icon">
+                <i aria-hidden="true">☀</i>
+              </div>
+              <label class="switch">
+                <input type="checkbox" id="switch-style-m">
+                <span class="slider round"></span>
+              </label>
+              <div class="icon">
+                <i aria-hidden="true">☾</i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script type="text/javascript" src="styles/toggle-theme.js"></script>
+      </footer>    </div>
+    
+    <script type="text/javascript" src="styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="styles/docfx.js"></script>
+    <script type="text/javascript" src="styles/main.js"></script>
+  </body>
+</html>

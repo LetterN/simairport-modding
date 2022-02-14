@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Custom Options | SimAirport Docs </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Custom Options | SimAirport Docs ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    
+    <link rel="shortcut icon" href=".././images/tabIcon.png">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    <meta property="docfx:rel" content="../">
+    <meta property="docfx:newtab" content="true">
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" style="align-items: center; display: flex;" href="../index.html">
+                <img id="logo" style="height: 39px" src=".././images/logo.png" alt="">
+              </a>    </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div class="container body-content">
+        
+        <div id="search-results">
+          <div class="search-list">Search Results for <span></span></div>
+          <div class="sr-items">
+            <p><i class="glyphicon glyphicon-refresh index-loading"></i></p>
+          </div>
+          <ul id="pagination" data-first="First" data-prev="Previous" data-next="Next" data-last="Last"></ul>
+        </div>
+      </div>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+<h1 id="custom-options">Custom Options</h1>
+
+<p>Here is a guide onto using <code>SimAirport.Modding.Settings</code>, letting the game handle saving and rendering of the data.</p>
+<h2 id="setup">Setup</h2>
+<p>Begin by importing <code>SimAirport.Modding.Settings</code> and adding this to your <code>OnSettingsLoaded()</code></p>
+<h2 id="usage">Usage</h2>
+<p>Here's a basic setting which adds a toggle option in the game.</p>
+<pre><code class="lang-cs">namespace name.MyMod
+{
+  public class Mod : BaseMod {
+    // ... your vars or funcs
+
+    // This is the settings manager that will handle saving, loading, and rendering of the settings.
+    // The game will handle setting this, so you do not need to worry about it.
+    public Settings.SettingManager SettingManager { get; set; }
+
+    public override void OnSettingsLoaded() {
+      // Create a checkbox with a key &quot;myKey_checkbox&quot; which can be used to access later!
+      SettingManager.AddDefault(&quot;myKey_checkbox&quot;, new CheckboxSetting {
+        Name = &quot;Check me!&quot;,
+        Value = false, // this is the default value
+      });
+
+      // Now we can access it! It will either be false or whatever it got saved
+      var success = SettingManager.TryGetBool(&quot;myKey_checkbox&quot;, out var statement);
+      // `success` var is either TRUE or FALSE depending if it failed fetching the saved value.
+      // the `statement` var returns the saved or default value of the setting
+
+      // You can do a more direct one using this
+      var directToThePoint = SettingManager.GetOrDefault(&quot;myKey_checkbox&quot;, false);
+      // `directToThePoint` var is direct to the point
+
+      // this is to remove the setting values. During development it is good to clear the options
+      // as some values gets saved, such as: 
+      // Name (All), Min (SliderSetting), Max (SliderSetting), Stepping (SliderSetting),
+      // ValueFormat (SliderSetting)
+      SettingManager.RemoveSetting(&quot;myKey_checkbox&quot;);
+    }
+
+    // ... your vars or funcs
+  }
+}
+</code></pre>
+<blockquote>
+<p><strong>Reminder! It's recommended to have a <code>RemoveSetting()</code> on all of your keys during development as it saves some value that you might change during development.</strong></p>
+</blockquote>
+<p>You can find out other setting types in the <code>SimAirport.Modding.Settings</code>, all of them are prefixed with <code>Setting</code> (eg: <code>StringSetting</code>).</p>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/LetterN/simairport-modding/blob/docs/docs/guides/customoptions.md/#L1" class="contribution-link">Improve this Doc</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="toggle-mode">
+                <div class="icon">
+                  <i aria-hidden="true">☀</i>
+                </div>
+                <label class="switch">
+                  <input type="checkbox" id="switch-style">
+                  <span class="slider round"></span>
+                </label>
+                <div class="icon">
+                  <i aria-hidden="true">☾</i>
+                </div>
+              </div>
+          
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <h5>In This Article</h5>
+              <div></div>
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            <div class="pull-left">
+              
+              <span>Generated by <strong>DocFX</strong></span>
+            </div>
+            <div class="toggle-mode pull-right visible-sm visible-xs">
+              <div class="icon">
+                <i aria-hidden="true">☀</i>
+              </div>
+              <label class="switch">
+                <input type="checkbox" id="switch-style-m">
+                <span class="slider round"></span>
+              </label>
+              <div class="icon">
+                <i aria-hidden="true">☾</i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <script type="text/javascript" src="../styles/toggle-theme.js"></script>
+      </footer>    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

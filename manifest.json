@@ -1,0 +1,406 @@
+{
+  "homepages": [],
+  "source_base_path": "/github/workspace/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Base.BaseMod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Base.BaseMod.html",
+          "hash": "oZIiS4cohxOExhbHeTgw3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Base.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Base.html",
+          "hash": "/gZX2aS+TkfcMAG5fpiSiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.EventSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.EventSystem.html",
+          "hash": "PiOKFzB0Sk7JlQYU7vEOjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.Game.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.Game.html",
+          "hash": "wQnov+NQ9Ym8vpfGLFb90w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.GameState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.GameState.html",
+          "hash": "ynzodv78lzyOI2ErgGZ9BA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.GameTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.GameTime.html",
+          "hash": "uHA+BeAWh9mQ2walyUTIpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.Graphics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.Graphics.html",
+          "hash": "6qZZoq1fAu/I1jCUbquk0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.Internationalization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.Internationalization.html",
+          "hash": "DQa+xf7kNWl7sFoVQU6INA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.Map.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.Map.html",
+          "hash": "mmGNikvnaJtUpaHOcID2iA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Data.html",
+          "hash": "h424oI5TJC2/1tM3vxQ8/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.CheckboxSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.CheckboxSetting.html",
+          "hash": "lsQ5Xn5wWUaCLDMroBXi0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.DropdownSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.DropdownSetting.html",
+          "hash": "wpdrrujlviGOlwrNWTEtMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.LabelSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.LabelSetting.html",
+          "hash": "fDzgOhxyHFXEf4VMS6LE8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.SettingBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.SettingBase-1.html",
+          "hash": "uRgllx3ULEuvTL+qrAKFBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.SettingBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.SettingBase.html",
+          "hash": "BD8WCGFqO222Y9o/6pEPLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.SettingManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.SettingManager.html",
+          "hash": "eIweqmd1U7vS9Nrm3ry+xQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.SliderSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.SliderSetting.html",
+          "hash": "drU1r6WkLU33002J3Ng6Fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.StringSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.StringSetting.html",
+          "hash": "xKn7P9VlBVmP3cI4bXBVjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SimAirport.Modding.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SimAirport.Modding.Settings.html",
+          "hash": "VWoMbzzXqY6PkKyPZx+pBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "J0j7bLBn0EaxL8HFuGBqCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "me8bFN8Nk55S2BpDRyhKtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/basicmod.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/basicmod.html",
+          "hash": "xcT+aizZHh0vlsV4R6UmMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "guides/customoptions.md",
+      "output": {
+        ".html": {
+          "relative_path": "guides/customoptions.html",
+          "hash": "K80VfVpf8xpl3Oxk6QcgVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "guides/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "guides/toc.html",
+          "hash": "qKu5L03oWc4ukGC/k7YRsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/tabIcon.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/tabIcon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "8u1J7I2q+8a9Sj+/jee1NQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Yu/GSG1bgCA9ZM+2DFyMTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 19,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

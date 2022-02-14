@@ -1,0 +1,1184 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: SimAirport.Modding.Base
+  name: SimAirport.Modding.Base
+  href: api/SimAirport.Modding.Base.html
+  commentId: N:SimAirport.Modding.Base
+  fullName: SimAirport.Modding.Base
+  nameWithType: SimAirport.Modding.Base
+- uid: SimAirport.Modding.Base.BaseMod
+  name: BaseMod
+  href: api/SimAirport.Modding.Base.BaseMod.html
+  commentId: T:SimAirport.Modding.Base.BaseMod
+  fullName: SimAirport.Modding.Base.BaseMod
+  nameWithType: BaseMod
+- uid: SimAirport.Modding.Base.BaseMod.Author
+  name: Author
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_Author
+  commentId: P:SimAirport.Modding.Base.BaseMod.Author
+  fullName: SimAirport.Modding.Base.BaseMod.Author
+  nameWithType: BaseMod.Author
+- uid: SimAirport.Modding.Base.BaseMod.Author*
+  name: Author
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_Author_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.Author
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.Author
+  nameWithType: BaseMod.Author
+- uid: SimAirport.Modding.Base.BaseMod.Description
+  name: Description
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_Description
+  commentId: P:SimAirport.Modding.Base.BaseMod.Description
+  fullName: SimAirport.Modding.Base.BaseMod.Description
+  nameWithType: BaseMod.Description
+- uid: SimAirport.Modding.Base.BaseMod.Description*
+  name: Description
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_Description_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.Description
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.Description
+  nameWithType: BaseMod.Description
+- uid: SimAirport.Modding.Base.BaseMod.InternalName
+  name: InternalName
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_InternalName
+  commentId: P:SimAirport.Modding.Base.BaseMod.InternalName
+  fullName: SimAirport.Modding.Base.BaseMod.InternalName
+  nameWithType: BaseMod.InternalName
+- uid: SimAirport.Modding.Base.BaseMod.InternalName*
+  name: InternalName
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_InternalName_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.InternalName
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.InternalName
+  nameWithType: BaseMod.InternalName
+- uid: SimAirport.Modding.Base.BaseMod.Name
+  name: Name
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_Name
+  commentId: P:SimAirport.Modding.Base.BaseMod.Name
+  fullName: SimAirport.Modding.Base.BaseMod.Name
+  nameWithType: BaseMod.Name
+- uid: SimAirport.Modding.Base.BaseMod.Name*
+  name: Name
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_Name_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.Name
+  nameWithType: BaseMod.Name
+- uid: SimAirport.Modding.Base.BaseMod.OnAirportLoaded(System.Collections.Generic.Dictionary{System.String,System.Object})
+  name: OnAirportLoaded(Dictionary<String, Object>)
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnAirportLoaded_System_Collections_Generic_Dictionary_System_String_System_Object__
+  commentId: M:SimAirport.Modding.Base.BaseMod.OnAirportLoaded(System.Collections.Generic.Dictionary{System.String,System.Object})
+  name.vb: OnAirportLoaded(Dictionary(Of String, Object))
+  fullName: SimAirport.Modding.Base.BaseMod.OnAirportLoaded(System.Collections.Generic.Dictionary<System.String, System.Object>)
+  fullName.vb: SimAirport.Modding.Base.BaseMod.OnAirportLoaded(System.Collections.Generic.Dictionary(Of System.String, System.Object))
+  nameWithType: BaseMod.OnAirportLoaded(Dictionary<String, Object>)
+  nameWithType.vb: BaseMod.OnAirportLoaded(Dictionary(Of String, Object))
+- uid: SimAirport.Modding.Base.BaseMod.OnAirportLoaded*
+  name: OnAirportLoaded
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnAirportLoaded_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.OnAirportLoaded
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.OnAirportLoaded
+  nameWithType: BaseMod.OnAirportLoaded
+- uid: SimAirport.Modding.Base.BaseMod.OnAirportSaving
+  name: OnAirportSaving()
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnAirportSaving
+  commentId: M:SimAirport.Modding.Base.BaseMod.OnAirportSaving
+  fullName: SimAirport.Modding.Base.BaseMod.OnAirportSaving()
+  nameWithType: BaseMod.OnAirportSaving()
+- uid: SimAirport.Modding.Base.BaseMod.OnAirportSaving*
+  name: OnAirportSaving
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnAirportSaving_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.OnAirportSaving
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.OnAirportSaving
+  nameWithType: BaseMod.OnAirportSaving
+- uid: SimAirport.Modding.Base.BaseMod.OnDisabled
+  name: OnDisabled()
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnDisabled
+  commentId: M:SimAirport.Modding.Base.BaseMod.OnDisabled
+  fullName: SimAirport.Modding.Base.BaseMod.OnDisabled()
+  nameWithType: BaseMod.OnDisabled()
+- uid: SimAirport.Modding.Base.BaseMod.OnDisabled*
+  name: OnDisabled
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnDisabled_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.OnDisabled
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.OnDisabled
+  nameWithType: BaseMod.OnDisabled
+- uid: SimAirport.Modding.Base.BaseMod.OnLoad(SimAirport.Modding.Data.GameState)
+  name: OnLoad(GameState)
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnLoad_SimAirport_Modding_Data_GameState_
+  commentId: M:SimAirport.Modding.Base.BaseMod.OnLoad(SimAirport.Modding.Data.GameState)
+  fullName: SimAirport.Modding.Base.BaseMod.OnLoad(SimAirport.Modding.Data.GameState)
+  nameWithType: BaseMod.OnLoad(GameState)
+- uid: SimAirport.Modding.Base.BaseMod.OnLoad*
+  name: OnLoad
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnLoad_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.OnLoad
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.OnLoad
+  nameWithType: BaseMod.OnLoad
+- uid: SimAirport.Modding.Base.BaseMod.OnSettingsLoaded
+  name: OnSettingsLoaded()
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnSettingsLoaded
+  commentId: M:SimAirport.Modding.Base.BaseMod.OnSettingsLoaded
+  fullName: SimAirport.Modding.Base.BaseMod.OnSettingsLoaded()
+  nameWithType: BaseMod.OnSettingsLoaded()
+- uid: SimAirport.Modding.Base.BaseMod.OnSettingsLoaded*
+  name: OnSettingsLoaded
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnSettingsLoaded_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.OnSettingsLoaded
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.OnSettingsLoaded
+  nameWithType: BaseMod.OnSettingsLoaded
+- uid: SimAirport.Modding.Base.BaseMod.OnTick
+  name: OnTick()
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnTick
+  commentId: M:SimAirport.Modding.Base.BaseMod.OnTick
+  fullName: SimAirport.Modding.Base.BaseMod.OnTick()
+  nameWithType: BaseMod.OnTick()
+- uid: SimAirport.Modding.Base.BaseMod.OnTick*
+  name: OnTick
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_OnTick_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.OnTick
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.OnTick
+  nameWithType: BaseMod.OnTick
+- uid: SimAirport.Modding.Base.BaseMod.SettingManager
+  name: SettingManager
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_SettingManager
+  commentId: P:SimAirport.Modding.Base.BaseMod.SettingManager
+  fullName: SimAirport.Modding.Base.BaseMod.SettingManager
+  nameWithType: BaseMod.SettingManager
+- uid: SimAirport.Modding.Base.BaseMod.SettingManager*
+  name: SettingManager
+  href: api/SimAirport.Modding.Base.BaseMod.html#SimAirport_Modding_Base_BaseMod_SettingManager_
+  commentId: Overload:SimAirport.Modding.Base.BaseMod.SettingManager
+  isSpec: "True"
+  fullName: SimAirport.Modding.Base.BaseMod.SettingManager
+  nameWithType: BaseMod.SettingManager
+- uid: SimAirport.Modding.Data
+  name: SimAirport.Modding.Data
+  href: api/SimAirport.Modding.Data.html
+  commentId: N:SimAirport.Modding.Data
+  fullName: SimAirport.Modding.Data
+  nameWithType: SimAirport.Modding.Data
+- uid: SimAirport.Modding.Data.EventSystem
+  name: EventSystem
+  href: api/SimAirport.Modding.Data.EventSystem.html
+  commentId: T:SimAirport.Modding.Data.EventSystem
+  fullName: SimAirport.Modding.Data.EventSystem
+  nameWithType: EventSystem
+- uid: SimAirport.Modding.Data.EventSystem.#ctor
+  name: EventSystem()
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem__ctor
+  commentId: M:SimAirport.Modding.Data.EventSystem.#ctor
+  fullName: SimAirport.Modding.Data.EventSystem.EventSystem()
+  nameWithType: EventSystem.EventSystem()
+- uid: SimAirport.Modding.Data.EventSystem.#ctor*
+  name: EventSystem
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem__ctor_
+  commentId: Overload:SimAirport.Modding.Data.EventSystem.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.EventSystem.EventSystem
+  nameWithType: EventSystem.EventSystem
+- uid: SimAirport.Modding.Data.EventSystem.Instance
+  name: Instance
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem_Instance
+  commentId: P:SimAirport.Modding.Data.EventSystem.Instance
+  fullName: SimAirport.Modding.Data.EventSystem.Instance
+  nameWithType: EventSystem.Instance
+- uid: SimAirport.Modding.Data.EventSystem.Instance*
+  name: Instance
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem_Instance_
+  commentId: Overload:SimAirport.Modding.Data.EventSystem.Instance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.EventSystem.Instance
+  nameWithType: EventSystem.Instance
+- uid: SimAirport.Modding.Data.EventSystem.OnLevelChanged
+  name: OnLevelChanged
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem_OnLevelChanged
+  commentId: P:SimAirport.Modding.Data.EventSystem.OnLevelChanged
+  fullName: SimAirport.Modding.Data.EventSystem.OnLevelChanged
+  nameWithType: EventSystem.OnLevelChanged
+- uid: SimAirport.Modding.Data.EventSystem.OnLevelChanged*
+  name: OnLevelChanged
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem_OnLevelChanged_
+  commentId: Overload:SimAirport.Modding.Data.EventSystem.OnLevelChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.EventSystem.OnLevelChanged
+  nameWithType: EventSystem.OnLevelChanged
+- uid: SimAirport.Modding.Data.EventSystem.OnStateChanged
+  name: OnStateChanged
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem_OnStateChanged
+  commentId: P:SimAirport.Modding.Data.EventSystem.OnStateChanged
+  fullName: SimAirport.Modding.Data.EventSystem.OnStateChanged
+  nameWithType: EventSystem.OnStateChanged
+- uid: SimAirport.Modding.Data.EventSystem.OnStateChanged*
+  name: OnStateChanged
+  href: api/SimAirport.Modding.Data.EventSystem.html#SimAirport_Modding_Data_EventSystem_OnStateChanged_
+  commentId: Overload:SimAirport.Modding.Data.EventSystem.OnStateChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.EventSystem.OnStateChanged
+  nameWithType: EventSystem.OnStateChanged
+- uid: SimAirport.Modding.Data.Game
+  name: Game
+  href: api/SimAirport.Modding.Data.Game.html
+  commentId: T:SimAirport.Modding.Data.Game
+  fullName: SimAirport.Modding.Data.Game
+  nameWithType: Game
+- uid: SimAirport.Modding.Data.Game.#ctor(System.Func{SimAirport.Modding.Data.GameState},System.Func{System.Double},System.Action{System.Double})
+  name: Game(Func<GameState>, Func<Double>, Action<Double>)
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game__ctor_System_Func_SimAirport_Modding_Data_GameState__System_Func_System_Double__System_Action_System_Double__
+  commentId: M:SimAirport.Modding.Data.Game.#ctor(System.Func{SimAirport.Modding.Data.GameState},System.Func{System.Double},System.Action{System.Double})
+  name.vb: Game(Func(Of GameState), Func(Of Double), Action(Of Double))
+  fullName: SimAirport.Modding.Data.Game.Game(System.Func<SimAirport.Modding.Data.GameState>, System.Func<System.Double>, System.Action<System.Double>)
+  fullName.vb: SimAirport.Modding.Data.Game.Game(System.Func(Of SimAirport.Modding.Data.GameState), System.Func(Of System.Double), System.Action(Of System.Double))
+  nameWithType: Game.Game(Func<GameState>, Func<Double>, Action<Double>)
+  nameWithType.vb: Game.Game(Func(Of GameState), Func(Of Double), Action(Of Double))
+- uid: SimAirport.Modding.Data.Game.#ctor*
+  name: Game
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game__ctor_
+  commentId: Overload:SimAirport.Modding.Data.Game.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Game.Game
+  nameWithType: Game.Game
+- uid: SimAirport.Modding.Data.Game.GetState
+  name: GetState()
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game_GetState
+  commentId: M:SimAirport.Modding.Data.Game.GetState
+  fullName: SimAirport.Modding.Data.Game.GetState()
+  nameWithType: Game.GetState()
+- uid: SimAirport.Modding.Data.Game.GetState*
+  name: GetState
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game_GetState_
+  commentId: Overload:SimAirport.Modding.Data.Game.GetState
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Game.GetState
+  nameWithType: Game.GetState
+- uid: SimAirport.Modding.Data.Game.Instance
+  name: Instance
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game_Instance
+  commentId: P:SimAirport.Modding.Data.Game.Instance
+  fullName: SimAirport.Modding.Data.Game.Instance
+  nameWithType: Game.Instance
+- uid: SimAirport.Modding.Data.Game.Instance*
+  name: Instance
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game_Instance_
+  commentId: Overload:SimAirport.Modding.Data.Game.Instance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Game.Instance
+  nameWithType: Game.Instance
+- uid: SimAirport.Modding.Data.Game.MoneyBalance
+  name: MoneyBalance
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game_MoneyBalance
+  commentId: P:SimAirport.Modding.Data.Game.MoneyBalance
+  fullName: SimAirport.Modding.Data.Game.MoneyBalance
+  nameWithType: Game.MoneyBalance
+- uid: SimAirport.Modding.Data.Game.MoneyBalance*
+  name: MoneyBalance
+  href: api/SimAirport.Modding.Data.Game.html#SimAirport_Modding_Data_Game_MoneyBalance_
+  commentId: Overload:SimAirport.Modding.Data.Game.MoneyBalance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Game.MoneyBalance
+  nameWithType: Game.MoneyBalance
+- uid: SimAirport.Modding.Data.GameState
+  name: GameState
+  href: api/SimAirport.Modding.Data.GameState.html
+  commentId: T:SimAirport.Modding.Data.GameState
+  fullName: SimAirport.Modding.Data.GameState
+  nameWithType: GameState
+- uid: SimAirport.Modding.Data.GameState.Career
+  name: Career
+  href: api/SimAirport.Modding.Data.GameState.html#SimAirport_Modding_Data_GameState_Career
+  commentId: F:SimAirport.Modding.Data.GameState.Career
+  fullName: SimAirport.Modding.Data.GameState.Career
+  nameWithType: GameState.Career
+- uid: SimAirport.Modding.Data.GameState.LoadScreen
+  name: LoadScreen
+  href: api/SimAirport.Modding.Data.GameState.html#SimAirport_Modding_Data_GameState_LoadScreen
+  commentId: F:SimAirport.Modding.Data.GameState.LoadScreen
+  fullName: SimAirport.Modding.Data.GameState.LoadScreen
+  nameWithType: GameState.LoadScreen
+- uid: SimAirport.Modding.Data.GameState.MainMenu
+  name: MainMenu
+  href: api/SimAirport.Modding.Data.GameState.html#SimAirport_Modding_Data_GameState_MainMenu
+  commentId: F:SimAirport.Modding.Data.GameState.MainMenu
+  fullName: SimAirport.Modding.Data.GameState.MainMenu
+  nameWithType: GameState.MainMenu
+- uid: SimAirport.Modding.Data.GameState.Sandbox
+  name: Sandbox
+  href: api/SimAirport.Modding.Data.GameState.html#SimAirport_Modding_Data_GameState_Sandbox
+  commentId: F:SimAirport.Modding.Data.GameState.Sandbox
+  fullName: SimAirport.Modding.Data.GameState.Sandbox
+  nameWithType: GameState.Sandbox
+- uid: SimAirport.Modding.Data.GameState.Scenario
+  name: Scenario
+  href: api/SimAirport.Modding.Data.GameState.html#SimAirport_Modding_Data_GameState_Scenario
+  commentId: F:SimAirport.Modding.Data.GameState.Scenario
+  fullName: SimAirport.Modding.Data.GameState.Scenario
+  nameWithType: GameState.Scenario
+- uid: SimAirport.Modding.Data.GameState.Undefined
+  name: Undefined
+  href: api/SimAirport.Modding.Data.GameState.html#SimAirport_Modding_Data_GameState_Undefined
+  commentId: F:SimAirport.Modding.Data.GameState.Undefined
+  fullName: SimAirport.Modding.Data.GameState.Undefined
+  nameWithType: GameState.Undefined
+- uid: SimAirport.Modding.Data.GameTime
+  name: GameTime
+  href: api/SimAirport.Modding.Data.GameTime.html
+  commentId: T:SimAirport.Modding.Data.GameTime
+  fullName: SimAirport.Modding.Data.GameTime
+  nameWithType: GameTime
+- uid: SimAirport.Modding.Data.GameTime.#ctor(System.Func{System.Double},System.Func{System.TimeSpan})
+  name: GameTime(Func<Double>, Func<TimeSpan>)
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime__ctor_System_Func_System_Double__System_Func_System_TimeSpan__
+  commentId: M:SimAirport.Modding.Data.GameTime.#ctor(System.Func{System.Double},System.Func{System.TimeSpan})
+  name.vb: GameTime(Func(Of Double), Func(Of TimeSpan))
+  fullName: SimAirport.Modding.Data.GameTime.GameTime(System.Func<System.Double>, System.Func<System.TimeSpan>)
+  fullName.vb: SimAirport.Modding.Data.GameTime.GameTime(System.Func(Of System.Double), System.Func(Of System.TimeSpan))
+  nameWithType: GameTime.GameTime(Func<Double>, Func<TimeSpan>)
+  nameWithType.vb: GameTime.GameTime(Func(Of Double), Func(Of TimeSpan))
+- uid: SimAirport.Modding.Data.GameTime.#ctor*
+  name: GameTime
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime__ctor_
+  commentId: Overload:SimAirport.Modding.Data.GameTime.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.GameTime.GameTime
+  nameWithType: GameTime.GameTime
+- uid: SimAirport.Modding.Data.GameTime.CurrentGameTime
+  name: CurrentGameTime
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime_CurrentGameTime
+  commentId: P:SimAirport.Modding.Data.GameTime.CurrentGameTime
+  fullName: SimAirport.Modding.Data.GameTime.CurrentGameTime
+  nameWithType: GameTime.CurrentGameTime
+- uid: SimAirport.Modding.Data.GameTime.CurrentGameTime*
+  name: CurrentGameTime
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime_CurrentGameTime_
+  commentId: Overload:SimAirport.Modding.Data.GameTime.CurrentGameTime
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.GameTime.CurrentGameTime
+  nameWithType: GameTime.CurrentGameTime
+- uid: SimAirport.Modding.Data.GameTime.Instance
+  name: Instance
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime_Instance
+  commentId: P:SimAirport.Modding.Data.GameTime.Instance
+  fullName: SimAirport.Modding.Data.GameTime.Instance
+  nameWithType: GameTime.Instance
+- uid: SimAirport.Modding.Data.GameTime.Instance*
+  name: Instance
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime_Instance_
+  commentId: Overload:SimAirport.Modding.Data.GameTime.Instance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.GameTime.Instance
+  nameWithType: GameTime.Instance
+- uid: SimAirport.Modding.Data.GameTime.TotalGameSeconds
+  name: TotalGameSeconds
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime_TotalGameSeconds
+  commentId: P:SimAirport.Modding.Data.GameTime.TotalGameSeconds
+  fullName: SimAirport.Modding.Data.GameTime.TotalGameSeconds
+  nameWithType: GameTime.TotalGameSeconds
+- uid: SimAirport.Modding.Data.GameTime.TotalGameSeconds*
+  name: TotalGameSeconds
+  href: api/SimAirport.Modding.Data.GameTime.html#SimAirport_Modding_Data_GameTime_TotalGameSeconds_
+  commentId: Overload:SimAirport.Modding.Data.GameTime.TotalGameSeconds
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.GameTime.TotalGameSeconds
+  nameWithType: GameTime.TotalGameSeconds
+- uid: SimAirport.Modding.Data.Graphics
+  name: Graphics
+  href: api/SimAirport.Modding.Data.Graphics.html
+  commentId: T:SimAirport.Modding.Data.Graphics
+  fullName: SimAirport.Modding.Data.Graphics
+  nameWithType: Graphics
+- uid: SimAirport.Modding.Data.Graphics.#ctor(System.Func{System.String,Sprite})
+  name: Graphics(Func<String, Sprite>)
+  href: api/SimAirport.Modding.Data.Graphics.html#SimAirport_Modding_Data_Graphics__ctor_System_Func_System_String_Sprite__
+  commentId: M:SimAirport.Modding.Data.Graphics.#ctor(System.Func{System.String,Sprite})
+  name.vb: Graphics(Func(Of String, Sprite))
+  fullName: SimAirport.Modding.Data.Graphics.Graphics(System.Func<System.String, Sprite>)
+  fullName.vb: SimAirport.Modding.Data.Graphics.Graphics(System.Func(Of System.String, Sprite))
+  nameWithType: Graphics.Graphics(Func<String, Sprite>)
+  nameWithType.vb: Graphics.Graphics(Func(Of String, Sprite))
+- uid: SimAirport.Modding.Data.Graphics.#ctor*
+  name: Graphics
+  href: api/SimAirport.Modding.Data.Graphics.html#SimAirport_Modding_Data_Graphics__ctor_
+  commentId: Overload:SimAirport.Modding.Data.Graphics.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Graphics.Graphics
+  nameWithType: Graphics.Graphics
+- uid: SimAirport.Modding.Data.Graphics.GetSprite(System.String)
+  name: GetSprite(String)
+  href: api/SimAirport.Modding.Data.Graphics.html#SimAirport_Modding_Data_Graphics_GetSprite_System_String_
+  commentId: M:SimAirport.Modding.Data.Graphics.GetSprite(System.String)
+  fullName: SimAirport.Modding.Data.Graphics.GetSprite(System.String)
+  nameWithType: Graphics.GetSprite(String)
+- uid: SimAirport.Modding.Data.Graphics.GetSprite*
+  name: GetSprite
+  href: api/SimAirport.Modding.Data.Graphics.html#SimAirport_Modding_Data_Graphics_GetSprite_
+  commentId: Overload:SimAirport.Modding.Data.Graphics.GetSprite
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Graphics.GetSprite
+  nameWithType: Graphics.GetSprite
+- uid: SimAirport.Modding.Data.Graphics.Instance
+  name: Instance
+  href: api/SimAirport.Modding.Data.Graphics.html#SimAirport_Modding_Data_Graphics_Instance
+  commentId: P:SimAirport.Modding.Data.Graphics.Instance
+  fullName: SimAirport.Modding.Data.Graphics.Instance
+  nameWithType: Graphics.Instance
+- uid: SimAirport.Modding.Data.Graphics.Instance*
+  name: Instance
+  href: api/SimAirport.Modding.Data.Graphics.html#SimAirport_Modding_Data_Graphics_Instance_
+  commentId: Overload:SimAirport.Modding.Data.Graphics.Instance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Graphics.Instance
+  nameWithType: Graphics.Instance
+- uid: SimAirport.Modding.Data.Internationalization
+  name: Internationalization
+  href: api/SimAirport.Modding.Data.Internationalization.html
+  commentId: T:SimAirport.Modding.Data.Internationalization
+  fullName: SimAirport.Modding.Data.Internationalization
+  nameWithType: Internationalization
+- uid: SimAirport.Modding.Data.Internationalization.#ctor(System.Func{System.String,System.String,System.String})
+  name: Internationalization(Func<String, String, String>)
+  href: api/SimAirport.Modding.Data.Internationalization.html#SimAirport_Modding_Data_Internationalization__ctor_System_Func_System_String_System_String_System_String__
+  commentId: M:SimAirport.Modding.Data.Internationalization.#ctor(System.Func{System.String,System.String,System.String})
+  name.vb: Internationalization(Func(Of String, String, String))
+  fullName: SimAirport.Modding.Data.Internationalization.Internationalization(System.Func<System.String, System.String, System.String>)
+  fullName.vb: SimAirport.Modding.Data.Internationalization.Internationalization(System.Func(Of System.String, System.String, System.String))
+  nameWithType: Internationalization.Internationalization(Func<String, String, String>)
+  nameWithType.vb: Internationalization.Internationalization(Func(Of String, String, String))
+- uid: SimAirport.Modding.Data.Internationalization.#ctor*
+  name: Internationalization
+  href: api/SimAirport.Modding.Data.Internationalization.html#SimAirport_Modding_Data_Internationalization__ctor_
+  commentId: Overload:SimAirport.Modding.Data.Internationalization.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Internationalization.Internationalization
+  nameWithType: Internationalization.Internationalization
+- uid: SimAirport.Modding.Data.Internationalization.Get(System.String,System.String)
+  name: Get(String, String)
+  href: api/SimAirport.Modding.Data.Internationalization.html#SimAirport_Modding_Data_Internationalization_Get_System_String_System_String_
+  commentId: M:SimAirport.Modding.Data.Internationalization.Get(System.String,System.String)
+  fullName: SimAirport.Modding.Data.Internationalization.Get(System.String, System.String)
+  nameWithType: Internationalization.Get(String, String)
+- uid: SimAirport.Modding.Data.Internationalization.Get*
+  name: Get
+  href: api/SimAirport.Modding.Data.Internationalization.html#SimAirport_Modding_Data_Internationalization_Get_
+  commentId: Overload:SimAirport.Modding.Data.Internationalization.Get
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Internationalization.Get
+  nameWithType: Internationalization.Get
+- uid: SimAirport.Modding.Data.Internationalization.Instance
+  name: Instance
+  href: api/SimAirport.Modding.Data.Internationalization.html#SimAirport_Modding_Data_Internationalization_Instance
+  commentId: P:SimAirport.Modding.Data.Internationalization.Instance
+  fullName: SimAirport.Modding.Data.Internationalization.Instance
+  nameWithType: Internationalization.Instance
+- uid: SimAirport.Modding.Data.Internationalization.Instance*
+  name: Instance
+  href: api/SimAirport.Modding.Data.Internationalization.html#SimAirport_Modding_Data_Internationalization_Instance_
+  commentId: Overload:SimAirport.Modding.Data.Internationalization.Instance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Internationalization.Instance
+  nameWithType: Internationalization.Instance
+- uid: SimAirport.Modding.Data.Map
+  name: Map
+  href: api/SimAirport.Modding.Data.Map.html
+  commentId: T:SimAirport.Modding.Data.Map
+  fullName: SimAirport.Modding.Data.Map
+  nameWithType: Map
+- uid: SimAirport.Modding.Data.Map.#ctor(System.Action{System.Int32})
+  name: Map(Action<Int32>)
+  href: api/SimAirport.Modding.Data.Map.html#SimAirport_Modding_Data_Map__ctor_System_Action_System_Int32__
+  commentId: M:SimAirport.Modding.Data.Map.#ctor(System.Action{System.Int32})
+  name.vb: Map(Action(Of Int32))
+  fullName: SimAirport.Modding.Data.Map.Map(System.Action<System.Int32>)
+  fullName.vb: SimAirport.Modding.Data.Map.Map(System.Action(Of System.Int32))
+  nameWithType: Map.Map(Action<Int32>)
+  nameWithType.vb: Map.Map(Action(Of Int32))
+- uid: SimAirport.Modding.Data.Map.#ctor*
+  name: Map
+  href: api/SimAirport.Modding.Data.Map.html#SimAirport_Modding_Data_Map__ctor_
+  commentId: Overload:SimAirport.Modding.Data.Map.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Map.Map
+  nameWithType: Map.Map
+- uid: SimAirport.Modding.Data.Map.Instance
+  name: Instance
+  href: api/SimAirport.Modding.Data.Map.html#SimAirport_Modding_Data_Map_Instance
+  commentId: P:SimAirport.Modding.Data.Map.Instance
+  fullName: SimAirport.Modding.Data.Map.Instance
+  nameWithType: Map.Instance
+- uid: SimAirport.Modding.Data.Map.Instance*
+  name: Instance
+  href: api/SimAirport.Modding.Data.Map.html#SimAirport_Modding_Data_Map_Instance_
+  commentId: Overload:SimAirport.Modding.Data.Map.Instance
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Map.Instance
+  nameWithType: Map.Instance
+- uid: SimAirport.Modding.Data.Map.SetMaxMapCellCount(System.Int32)
+  name: SetMaxMapCellCount(Int32)
+  href: api/SimAirport.Modding.Data.Map.html#SimAirport_Modding_Data_Map_SetMaxMapCellCount_System_Int32_
+  commentId: M:SimAirport.Modding.Data.Map.SetMaxMapCellCount(System.Int32)
+  fullName: SimAirport.Modding.Data.Map.SetMaxMapCellCount(System.Int32)
+  nameWithType: Map.SetMaxMapCellCount(Int32)
+- uid: SimAirport.Modding.Data.Map.SetMaxMapCellCount*
+  name: SetMaxMapCellCount
+  href: api/SimAirport.Modding.Data.Map.html#SimAirport_Modding_Data_Map_SetMaxMapCellCount_
+  commentId: Overload:SimAirport.Modding.Data.Map.SetMaxMapCellCount
+  isSpec: "True"
+  fullName: SimAirport.Modding.Data.Map.SetMaxMapCellCount
+  nameWithType: Map.SetMaxMapCellCount
+- uid: SimAirport.Modding.Settings
+  name: SimAirport.Modding.Settings
+  href: api/SimAirport.Modding.Settings.html
+  commentId: N:SimAirport.Modding.Settings
+  fullName: SimAirport.Modding.Settings
+  nameWithType: SimAirport.Modding.Settings
+- uid: SimAirport.Modding.Settings.CheckboxSetting
+  name: CheckboxSetting
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html
+  commentId: T:SimAirport.Modding.Settings.CheckboxSetting
+  fullName: SimAirport.Modding.Settings.CheckboxSetting
+  nameWithType: CheckboxSetting
+- uid: SimAirport.Modding.Settings.CheckboxSetting.Name
+  name: Name
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html#SimAirport_Modding_Settings_CheckboxSetting_Name
+  commentId: P:SimAirport.Modding.Settings.CheckboxSetting.Name
+  fullName: SimAirport.Modding.Settings.CheckboxSetting.Name
+  nameWithType: CheckboxSetting.Name
+- uid: SimAirport.Modding.Settings.CheckboxSetting.Name*
+  name: Name
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html#SimAirport_Modding_Settings_CheckboxSetting_Name_
+  commentId: Overload:SimAirport.Modding.Settings.CheckboxSetting.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.CheckboxSetting.Name
+  nameWithType: CheckboxSetting.Name
+- uid: SimAirport.Modding.Settings.CheckboxSetting.OnValueChanged
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html#SimAirport_Modding_Settings_CheckboxSetting_OnValueChanged
+  commentId: P:SimAirport.Modding.Settings.CheckboxSetting.OnValueChanged
+  fullName: SimAirport.Modding.Settings.CheckboxSetting.OnValueChanged
+  nameWithType: CheckboxSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.CheckboxSetting.OnValueChanged*
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html#SimAirport_Modding_Settings_CheckboxSetting_OnValueChanged_
+  commentId: Overload:SimAirport.Modding.Settings.CheckboxSetting.OnValueChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.CheckboxSetting.OnValueChanged
+  nameWithType: CheckboxSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.CheckboxSetting.Value
+  name: Value
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html#SimAirport_Modding_Settings_CheckboxSetting_Value
+  commentId: P:SimAirport.Modding.Settings.CheckboxSetting.Value
+  fullName: SimAirport.Modding.Settings.CheckboxSetting.Value
+  nameWithType: CheckboxSetting.Value
+- uid: SimAirport.Modding.Settings.CheckboxSetting.Value*
+  name: Value
+  href: api/SimAirport.Modding.Settings.CheckboxSetting.html#SimAirport_Modding_Settings_CheckboxSetting_Value_
+  commentId: Overload:SimAirport.Modding.Settings.CheckboxSetting.Value
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.CheckboxSetting.Value
+  nameWithType: CheckboxSetting.Value
+- uid: SimAirport.Modding.Settings.DropdownSetting
+  name: DropdownSetting
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html
+  commentId: T:SimAirport.Modding.Settings.DropdownSetting
+  fullName: SimAirport.Modding.Settings.DropdownSetting
+  nameWithType: DropdownSetting
+- uid: SimAirport.Modding.Settings.DropdownSetting.Name
+  name: Name
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_Name
+  commentId: P:SimAirport.Modding.Settings.DropdownSetting.Name
+  fullName: SimAirport.Modding.Settings.DropdownSetting.Name
+  nameWithType: DropdownSetting.Name
+- uid: SimAirport.Modding.Settings.DropdownSetting.Name*
+  name: Name
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_Name_
+  commentId: Overload:SimAirport.Modding.Settings.DropdownSetting.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.DropdownSetting.Name
+  nameWithType: DropdownSetting.Name
+- uid: SimAirport.Modding.Settings.DropdownSetting.OnValueChanged
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_OnValueChanged
+  commentId: P:SimAirport.Modding.Settings.DropdownSetting.OnValueChanged
+  fullName: SimAirport.Modding.Settings.DropdownSetting.OnValueChanged
+  nameWithType: DropdownSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.DropdownSetting.OnValueChanged*
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_OnValueChanged_
+  commentId: Overload:SimAirport.Modding.Settings.DropdownSetting.OnValueChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.DropdownSetting.OnValueChanged
+  nameWithType: DropdownSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.DropdownSetting.Options
+  name: Options
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_Options
+  commentId: P:SimAirport.Modding.Settings.DropdownSetting.Options
+  fullName: SimAirport.Modding.Settings.DropdownSetting.Options
+  nameWithType: DropdownSetting.Options
+- uid: SimAirport.Modding.Settings.DropdownSetting.Options*
+  name: Options
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_Options_
+  commentId: Overload:SimAirport.Modding.Settings.DropdownSetting.Options
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.DropdownSetting.Options
+  nameWithType: DropdownSetting.Options
+- uid: SimAirport.Modding.Settings.DropdownSetting.Value
+  name: Value
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_Value
+  commentId: P:SimAirport.Modding.Settings.DropdownSetting.Value
+  fullName: SimAirport.Modding.Settings.DropdownSetting.Value
+  nameWithType: DropdownSetting.Value
+- uid: SimAirport.Modding.Settings.DropdownSetting.Value*
+  name: Value
+  href: api/SimAirport.Modding.Settings.DropdownSetting.html#SimAirport_Modding_Settings_DropdownSetting_Value_
+  commentId: Overload:SimAirport.Modding.Settings.DropdownSetting.Value
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.DropdownSetting.Value
+  nameWithType: DropdownSetting.Value
+- uid: SimAirport.Modding.Settings.LabelSetting
+  name: LabelSetting
+  href: api/SimAirport.Modding.Settings.LabelSetting.html
+  commentId: T:SimAirport.Modding.Settings.LabelSetting
+  fullName: SimAirport.Modding.Settings.LabelSetting
+  nameWithType: LabelSetting
+- uid: SimAirport.Modding.Settings.LabelSetting.Name
+  name: Name
+  href: api/SimAirport.Modding.Settings.LabelSetting.html#SimAirport_Modding_Settings_LabelSetting_Name
+  commentId: P:SimAirport.Modding.Settings.LabelSetting.Name
+  fullName: SimAirport.Modding.Settings.LabelSetting.Name
+  nameWithType: LabelSetting.Name
+- uid: SimAirport.Modding.Settings.LabelSetting.Name*
+  name: Name
+  href: api/SimAirport.Modding.Settings.LabelSetting.html#SimAirport_Modding_Settings_LabelSetting_Name_
+  commentId: Overload:SimAirport.Modding.Settings.LabelSetting.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.LabelSetting.Name
+  nameWithType: LabelSetting.Name
+- uid: SimAirport.Modding.Settings.LabelSetting.OnValueChanged
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.LabelSetting.html#SimAirport_Modding_Settings_LabelSetting_OnValueChanged
+  commentId: P:SimAirport.Modding.Settings.LabelSetting.OnValueChanged
+  fullName: SimAirport.Modding.Settings.LabelSetting.OnValueChanged
+  nameWithType: LabelSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.LabelSetting.OnValueChanged*
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.LabelSetting.html#SimAirport_Modding_Settings_LabelSetting_OnValueChanged_
+  commentId: Overload:SimAirport.Modding.Settings.LabelSetting.OnValueChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.LabelSetting.OnValueChanged
+  nameWithType: LabelSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.LabelSetting.Value
+  name: Value
+  href: api/SimAirport.Modding.Settings.LabelSetting.html#SimAirport_Modding_Settings_LabelSetting_Value
+  commentId: P:SimAirport.Modding.Settings.LabelSetting.Value
+  fullName: SimAirport.Modding.Settings.LabelSetting.Value
+  nameWithType: LabelSetting.Value
+- uid: SimAirport.Modding.Settings.LabelSetting.Value*
+  name: Value
+  href: api/SimAirport.Modding.Settings.LabelSetting.html#SimAirport_Modding_Settings_LabelSetting_Value_
+  commentId: Overload:SimAirport.Modding.Settings.LabelSetting.Value
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.LabelSetting.Value
+  nameWithType: LabelSetting.Value
+- uid: SimAirport.Modding.Settings.SettingBase
+  name: SettingBase
+  href: api/SimAirport.Modding.Settings.SettingBase.html
+  commentId: T:SimAirport.Modding.Settings.SettingBase
+  fullName: SimAirport.Modding.Settings.SettingBase
+  nameWithType: SettingBase
+- uid: SimAirport.Modding.Settings.SettingBase.GetValue
+  name: GetValue()
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_GetValue
+  commentId: M:SimAirport.Modding.Settings.SettingBase.GetValue
+  fullName: SimAirport.Modding.Settings.SettingBase.GetValue()
+  nameWithType: SettingBase.GetValue()
+- uid: SimAirport.Modding.Settings.SettingBase.GetValue*
+  name: GetValue
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_GetValue_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase.GetValue
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase.GetValue
+  nameWithType: SettingBase.GetValue
+- uid: SimAirport.Modding.Settings.SettingBase.SetValue(System.Object)
+  name: SetValue(Object)
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_SetValue_System_Object_
+  commentId: M:SimAirport.Modding.Settings.SettingBase.SetValue(System.Object)
+  fullName: SimAirport.Modding.Settings.SettingBase.SetValue(System.Object)
+  nameWithType: SettingBase.SetValue(Object)
+- uid: SimAirport.Modding.Settings.SettingBase.SetValue*
+  name: SetValue
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_SetValue_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase.SetValue
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase.SetValue
+  nameWithType: SettingBase.SetValue
+- uid: SimAirport.Modding.Settings.SettingBase.SortOrder
+  name: SortOrder
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_SortOrder
+  commentId: P:SimAirport.Modding.Settings.SettingBase.SortOrder
+  fullName: SimAirport.Modding.Settings.SettingBase.SortOrder
+  nameWithType: SettingBase.SortOrder
+- uid: SimAirport.Modding.Settings.SettingBase.SortOrder*
+  name: SortOrder
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_SortOrder_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase.SortOrder
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase.SortOrder
+  nameWithType: SettingBase.SortOrder
+- uid: SimAirport.Modding.Settings.SettingBase.Type
+  name: Type
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_Type
+  commentId: P:SimAirport.Modding.Settings.SettingBase.Type
+  fullName: SimAirport.Modding.Settings.SettingBase.Type
+  nameWithType: SettingBase.Type
+- uid: SimAirport.Modding.Settings.SettingBase.Type*
+  name: Type
+  href: api/SimAirport.Modding.Settings.SettingBase.html#SimAirport_Modding_Settings_SettingBase_Type_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase.Type
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase.Type
+  nameWithType: SettingBase.Type
+- uid: SimAirport.Modding.Settings.SettingBase`1
+  name: SettingBase<T>
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html
+  commentId: T:SimAirport.Modding.Settings.SettingBase`1
+  name.vb: SettingBase(Of T)
+  fullName: SimAirport.Modding.Settings.SettingBase<T>
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T)
+  nameWithType: SettingBase<T>
+  nameWithType.vb: SettingBase(Of T)
+- uid: SimAirport.Modding.Settings.SettingBase`1.GetValue
+  name: GetValue()
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_GetValue
+  commentId: M:SimAirport.Modding.Settings.SettingBase`1.GetValue
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.GetValue()
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).GetValue()
+  nameWithType: SettingBase<T>.GetValue()
+  nameWithType.vb: SettingBase(Of T).GetValue()
+- uid: SimAirport.Modding.Settings.SettingBase`1.GetValue*
+  name: GetValue
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_GetValue_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase`1.GetValue
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.GetValue
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).GetValue
+  nameWithType: SettingBase<T>.GetValue
+  nameWithType.vb: SettingBase(Of T).GetValue
+- uid: SimAirport.Modding.Settings.SettingBase`1.Name
+  name: Name
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_Name
+  commentId: P:SimAirport.Modding.Settings.SettingBase`1.Name
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.Name
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).Name
+  nameWithType: SettingBase<T>.Name
+  nameWithType.vb: SettingBase(Of T).Name
+- uid: SimAirport.Modding.Settings.SettingBase`1.Name*
+  name: Name
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_Name_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase`1.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.Name
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).Name
+  nameWithType: SettingBase<T>.Name
+  nameWithType.vb: SettingBase(Of T).Name
+- uid: SimAirport.Modding.Settings.SettingBase`1.OnValueChanged
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_OnValueChanged
+  commentId: P:SimAirport.Modding.Settings.SettingBase`1.OnValueChanged
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.OnValueChanged
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).OnValueChanged
+  nameWithType: SettingBase<T>.OnValueChanged
+  nameWithType.vb: SettingBase(Of T).OnValueChanged
+- uid: SimAirport.Modding.Settings.SettingBase`1.OnValueChanged*
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_OnValueChanged_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase`1.OnValueChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.OnValueChanged
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).OnValueChanged
+  nameWithType: SettingBase<T>.OnValueChanged
+  nameWithType.vb: SettingBase(Of T).OnValueChanged
+- uid: SimAirport.Modding.Settings.SettingBase`1.SetValue(System.Object)
+  name: SetValue(Object)
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_SetValue_System_Object_
+  commentId: M:SimAirport.Modding.Settings.SettingBase`1.SetValue(System.Object)
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.SetValue(System.Object)
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).SetValue(System.Object)
+  nameWithType: SettingBase<T>.SetValue(Object)
+  nameWithType.vb: SettingBase(Of T).SetValue(Object)
+- uid: SimAirport.Modding.Settings.SettingBase`1.SetValue*
+  name: SetValue
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_SetValue_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase`1.SetValue
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.SetValue
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).SetValue
+  nameWithType: SettingBase<T>.SetValue
+  nameWithType.vb: SettingBase(Of T).SetValue
+- uid: SimAirport.Modding.Settings.SettingBase`1.Type
+  name: Type
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_Type
+  commentId: P:SimAirport.Modding.Settings.SettingBase`1.Type
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.Type
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).Type
+  nameWithType: SettingBase<T>.Type
+  nameWithType.vb: SettingBase(Of T).Type
+- uid: SimAirport.Modding.Settings.SettingBase`1.Type*
+  name: Type
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_Type_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase`1.Type
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.Type
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).Type
+  nameWithType: SettingBase<T>.Type
+  nameWithType.vb: SettingBase(Of T).Type
+- uid: SimAirport.Modding.Settings.SettingBase`1.Value
+  name: Value
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_Value
+  commentId: P:SimAirport.Modding.Settings.SettingBase`1.Value
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.Value
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).Value
+  nameWithType: SettingBase<T>.Value
+  nameWithType.vb: SettingBase(Of T).Value
+- uid: SimAirport.Modding.Settings.SettingBase`1.Value*
+  name: Value
+  href: api/SimAirport.Modding.Settings.SettingBase-1.html#SimAirport_Modding_Settings_SettingBase_1_Value_
+  commentId: Overload:SimAirport.Modding.Settings.SettingBase`1.Value
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingBase<T>.Value
+  fullName.vb: SimAirport.Modding.Settings.SettingBase(Of T).Value
+  nameWithType: SettingBase<T>.Value
+  nameWithType.vb: SettingBase(Of T).Value
+- uid: SimAirport.Modding.Settings.SettingManager
+  name: SettingManager
+  href: api/SimAirport.Modding.Settings.SettingManager.html
+  commentId: T:SimAirport.Modding.Settings.SettingManager
+  fullName: SimAirport.Modding.Settings.SettingManager
+  nameWithType: SettingManager
+- uid: SimAirport.Modding.Settings.SettingManager.#ctor(System.Collections.Generic.Dictionary{System.String,SimAirport.Modding.Settings.SettingBase})
+  name: SettingManager(Dictionary<String, SettingBase>)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager__ctor_System_Collections_Generic_Dictionary_System_String_SimAirport_Modding_Settings_SettingBase__
+  commentId: M:SimAirport.Modding.Settings.SettingManager.#ctor(System.Collections.Generic.Dictionary{System.String,SimAirport.Modding.Settings.SettingBase})
+  name.vb: SettingManager(Dictionary(Of String, SettingBase))
+  fullName: SimAirport.Modding.Settings.SettingManager.SettingManager(System.Collections.Generic.Dictionary<System.String, SimAirport.Modding.Settings.SettingBase>)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.SettingManager(System.Collections.Generic.Dictionary(Of System.String, SimAirport.Modding.Settings.SettingBase))
+  nameWithType: SettingManager.SettingManager(Dictionary<String, SettingBase>)
+  nameWithType.vb: SettingManager.SettingManager(Dictionary(Of String, SettingBase))
+- uid: SimAirport.Modding.Settings.SettingManager.#ctor*
+  name: SettingManager
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager__ctor_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.#ctor
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.SettingManager
+  nameWithType: SettingManager.SettingManager
+- uid: SimAirport.Modding.Settings.SettingManager.AddDefault(System.String,SimAirport.Modding.Settings.SettingBase)
+  name: AddDefault(String, SettingBase)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_AddDefault_System_String_SimAirport_Modding_Settings_SettingBase_
+  commentId: M:SimAirport.Modding.Settings.SettingManager.AddDefault(System.String,SimAirport.Modding.Settings.SettingBase)
+  fullName: SimAirport.Modding.Settings.SettingManager.AddDefault(System.String, SimAirport.Modding.Settings.SettingBase)
+  nameWithType: SettingManager.AddDefault(String, SettingBase)
+- uid: SimAirport.Modding.Settings.SettingManager.AddDefault*
+  name: AddDefault
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_AddDefault_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.AddDefault
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.AddDefault
+  nameWithType: SettingManager.AddDefault
+- uid: SimAirport.Modding.Settings.SettingManager.GetAll
+  name: GetAll()
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_GetAll
+  commentId: M:SimAirport.Modding.Settings.SettingManager.GetAll
+  fullName: SimAirport.Modding.Settings.SettingManager.GetAll()
+  nameWithType: SettingManager.GetAll()
+- uid: SimAirport.Modding.Settings.SettingManager.GetAll*
+  name: GetAll
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_GetAll_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.GetAll
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.GetAll
+  nameWithType: SettingManager.GetAll
+- uid: SimAirport.Modding.Settings.SettingManager.GetOrDefault*
+  name: GetOrDefault
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_GetOrDefault_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.GetOrDefault
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.GetOrDefault
+  nameWithType: SettingManager.GetOrDefault
+- uid: SimAirport.Modding.Settings.SettingManager.GetOrDefault``1(System.String,``0)
+  name: GetOrDefault<T>(String, T)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_GetOrDefault__1_System_String___0_
+  commentId: M:SimAirport.Modding.Settings.SettingManager.GetOrDefault``1(System.String,``0)
+  name.vb: GetOrDefault(Of T)(String, T)
+  fullName: SimAirport.Modding.Settings.SettingManager.GetOrDefault<T>(System.String, T)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.GetOrDefault(Of T)(System.String, T)
+  nameWithType: SettingManager.GetOrDefault<T>(String, T)
+  nameWithType.vb: SettingManager.GetOrDefault(Of T)(String, T)
+- uid: SimAirport.Modding.Settings.SettingManager.RemoveSetting(System.String)
+  name: RemoveSetting(String)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_RemoveSetting_System_String_
+  commentId: M:SimAirport.Modding.Settings.SettingManager.RemoveSetting(System.String)
+  fullName: SimAirport.Modding.Settings.SettingManager.RemoveSetting(System.String)
+  nameWithType: SettingManager.RemoveSetting(String)
+- uid: SimAirport.Modding.Settings.SettingManager.RemoveSetting*
+  name: RemoveSetting
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_RemoveSetting_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.RemoveSetting
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.RemoveSetting
+  nameWithType: SettingManager.RemoveSetting
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetBool(System.String,System.Boolean@)
+  name: TryGetBool(String, out Boolean)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetBool_System_String_System_Boolean__
+  commentId: M:SimAirport.Modding.Settings.SettingManager.TryGetBool(System.String,System.Boolean@)
+  name.vb: TryGetBool(String, ByRef Boolean)
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetBool(System.String, out System.Boolean)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.TryGetBool(System.String, ByRef System.Boolean)
+  nameWithType: SettingManager.TryGetBool(String, out Boolean)
+  nameWithType.vb: SettingManager.TryGetBool(String, ByRef Boolean)
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetBool*
+  name: TryGetBool
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetBool_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.TryGetBool
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetBool
+  nameWithType: SettingManager.TryGetBool
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetFloat(System.String,System.Single@)
+  name: TryGetFloat(String, out Single)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetFloat_System_String_System_Single__
+  commentId: M:SimAirport.Modding.Settings.SettingManager.TryGetFloat(System.String,System.Single@)
+  name.vb: TryGetFloat(String, ByRef Single)
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetFloat(System.String, out System.Single)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.TryGetFloat(System.String, ByRef System.Single)
+  nameWithType: SettingManager.TryGetFloat(String, out Single)
+  nameWithType.vb: SettingManager.TryGetFloat(String, ByRef Single)
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetFloat*
+  name: TryGetFloat
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetFloat_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.TryGetFloat
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetFloat
+  nameWithType: SettingManager.TryGetFloat
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetSetting*
+  name: TryGetSetting
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetSetting_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.TryGetSetting
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetSetting
+  nameWithType: SettingManager.TryGetSetting
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetSetting``1(System.String,``0@)
+  name: TryGetSetting<T>(String, out T)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetSetting__1_System_String___0__
+  commentId: M:SimAirport.Modding.Settings.SettingManager.TryGetSetting``1(System.String,``0@)
+  name.vb: TryGetSetting(Of T)(String, ByRef T)
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetSetting<T>(System.String, out T)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.TryGetSetting(Of T)(System.String, ByRef T)
+  nameWithType: SettingManager.TryGetSetting<T>(String, out T)
+  nameWithType.vb: SettingManager.TryGetSetting(Of T)(String, ByRef T)
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetString(System.String,System.String@)
+  name: TryGetString(String, out String)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetString_System_String_System_String__
+  commentId: M:SimAirport.Modding.Settings.SettingManager.TryGetString(System.String,System.String@)
+  name.vb: TryGetString(String, ByRef String)
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetString(System.String, out System.String)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.TryGetString(System.String, ByRef System.String)
+  nameWithType: SettingManager.TryGetString(String, out String)
+  nameWithType.vb: SettingManager.TryGetString(String, ByRef String)
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetString*
+  name: TryGetString
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetString_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.TryGetString
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetString
+  nameWithType: SettingManager.TryGetString
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetValue*
+  name: TryGetValue
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetValue_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.TryGetValue
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetValue
+  nameWithType: SettingManager.TryGetValue
+- uid: SimAirport.Modding.Settings.SettingManager.TryGetValue``1(System.String,``0@)
+  name: TryGetValue<T>(String, out T)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_TryGetValue__1_System_String___0__
+  commentId: M:SimAirport.Modding.Settings.SettingManager.TryGetValue``1(System.String,``0@)
+  name.vb: TryGetValue(Of T)(String, ByRef T)
+  fullName: SimAirport.Modding.Settings.SettingManager.TryGetValue<T>(System.String, out T)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.TryGetValue(Of T)(System.String, ByRef T)
+  nameWithType: SettingManager.TryGetValue<T>(String, out T)
+  nameWithType.vb: SettingManager.TryGetValue(Of T)(String, ByRef T)
+- uid: SimAirport.Modding.Settings.SettingManager.UpdateValue*
+  name: UpdateValue
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_UpdateValue_
+  commentId: Overload:SimAirport.Modding.Settings.SettingManager.UpdateValue
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SettingManager.UpdateValue
+  nameWithType: SettingManager.UpdateValue
+- uid: SimAirport.Modding.Settings.SettingManager.UpdateValue``1(System.String,``0)
+  name: UpdateValue<T>(String, T)
+  href: api/SimAirport.Modding.Settings.SettingManager.html#SimAirport_Modding_Settings_SettingManager_UpdateValue__1_System_String___0_
+  commentId: M:SimAirport.Modding.Settings.SettingManager.UpdateValue``1(System.String,``0)
+  name.vb: UpdateValue(Of T)(String, T)
+  fullName: SimAirport.Modding.Settings.SettingManager.UpdateValue<T>(System.String, T)
+  fullName.vb: SimAirport.Modding.Settings.SettingManager.UpdateValue(Of T)(System.String, T)
+  nameWithType: SettingManager.UpdateValue<T>(String, T)
+  nameWithType.vb: SettingManager.UpdateValue(Of T)(String, T)
+- uid: SimAirport.Modding.Settings.SliderSetting
+  name: SliderSetting
+  href: api/SimAirport.Modding.Settings.SliderSetting.html
+  commentId: T:SimAirport.Modding.Settings.SliderSetting
+  fullName: SimAirport.Modding.Settings.SliderSetting
+  nameWithType: SliderSetting
+- uid: SimAirport.Modding.Settings.SliderSetting.Maximum
+  name: Maximum
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Maximum
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.Maximum
+  fullName: SimAirport.Modding.Settings.SliderSetting.Maximum
+  nameWithType: SliderSetting.Maximum
+- uid: SimAirport.Modding.Settings.SliderSetting.Maximum*
+  name: Maximum
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Maximum_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.Maximum
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.Maximum
+  nameWithType: SliderSetting.Maximum
+- uid: SimAirport.Modding.Settings.SliderSetting.Minimum
+  name: Minimum
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Minimum
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.Minimum
+  fullName: SimAirport.Modding.Settings.SliderSetting.Minimum
+  nameWithType: SliderSetting.Minimum
+- uid: SimAirport.Modding.Settings.SliderSetting.Minimum*
+  name: Minimum
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Minimum_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.Minimum
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.Minimum
+  nameWithType: SliderSetting.Minimum
+- uid: SimAirport.Modding.Settings.SliderSetting.Name
+  name: Name
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Name
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.Name
+  fullName: SimAirport.Modding.Settings.SliderSetting.Name
+  nameWithType: SliderSetting.Name
+- uid: SimAirport.Modding.Settings.SliderSetting.Name*
+  name: Name
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Name_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.Name
+  nameWithType: SliderSetting.Name
+- uid: SimAirport.Modding.Settings.SliderSetting.OnValueChanged
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_OnValueChanged
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.OnValueChanged
+  fullName: SimAirport.Modding.Settings.SliderSetting.OnValueChanged
+  nameWithType: SliderSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.SliderSetting.OnValueChanged*
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_OnValueChanged_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.OnValueChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.OnValueChanged
+  nameWithType: SliderSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.SliderSetting.Stepping
+  name: Stepping
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Stepping
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.Stepping
+  fullName: SimAirport.Modding.Settings.SliderSetting.Stepping
+  nameWithType: SliderSetting.Stepping
+- uid: SimAirport.Modding.Settings.SliderSetting.Stepping*
+  name: Stepping
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Stepping_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.Stepping
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.Stepping
+  nameWithType: SliderSetting.Stepping
+- uid: SimAirport.Modding.Settings.SliderSetting.Value
+  name: Value
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Value
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.Value
+  fullName: SimAirport.Modding.Settings.SliderSetting.Value
+  nameWithType: SliderSetting.Value
+- uid: SimAirport.Modding.Settings.SliderSetting.Value*
+  name: Value
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_Value_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.Value
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.Value
+  nameWithType: SliderSetting.Value
+- uid: SimAirport.Modding.Settings.SliderSetting.ValueFormat
+  name: ValueFormat
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_ValueFormat
+  commentId: P:SimAirport.Modding.Settings.SliderSetting.ValueFormat
+  fullName: SimAirport.Modding.Settings.SliderSetting.ValueFormat
+  nameWithType: SliderSetting.ValueFormat
+- uid: SimAirport.Modding.Settings.SliderSetting.ValueFormat*
+  name: ValueFormat
+  href: api/SimAirport.Modding.Settings.SliderSetting.html#SimAirport_Modding_Settings_SliderSetting_ValueFormat_
+  commentId: Overload:SimAirport.Modding.Settings.SliderSetting.ValueFormat
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.SliderSetting.ValueFormat
+  nameWithType: SliderSetting.ValueFormat
+- uid: SimAirport.Modding.Settings.StringSetting
+  name: StringSetting
+  href: api/SimAirport.Modding.Settings.StringSetting.html
+  commentId: T:SimAirport.Modding.Settings.StringSetting
+  fullName: SimAirport.Modding.Settings.StringSetting
+  nameWithType: StringSetting
+- uid: SimAirport.Modding.Settings.StringSetting.Name
+  name: Name
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_Name
+  commentId: P:SimAirport.Modding.Settings.StringSetting.Name
+  fullName: SimAirport.Modding.Settings.StringSetting.Name
+  nameWithType: StringSetting.Name
+- uid: SimAirport.Modding.Settings.StringSetting.Name*
+  name: Name
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_Name_
+  commentId: Overload:SimAirport.Modding.Settings.StringSetting.Name
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.StringSetting.Name
+  nameWithType: StringSetting.Name
+- uid: SimAirport.Modding.Settings.StringSetting.OnValueChanged
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_OnValueChanged
+  commentId: P:SimAirport.Modding.Settings.StringSetting.OnValueChanged
+  fullName: SimAirport.Modding.Settings.StringSetting.OnValueChanged
+  nameWithType: StringSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.StringSetting.OnValueChanged*
+  name: OnValueChanged
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_OnValueChanged_
+  commentId: Overload:SimAirport.Modding.Settings.StringSetting.OnValueChanged
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.StringSetting.OnValueChanged
+  nameWithType: StringSetting.OnValueChanged
+- uid: SimAirport.Modding.Settings.StringSetting.Placeholder
+  name: Placeholder
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_Placeholder
+  commentId: P:SimAirport.Modding.Settings.StringSetting.Placeholder
+  fullName: SimAirport.Modding.Settings.StringSetting.Placeholder
+  nameWithType: StringSetting.Placeholder
+- uid: SimAirport.Modding.Settings.StringSetting.Placeholder*
+  name: Placeholder
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_Placeholder_
+  commentId: Overload:SimAirport.Modding.Settings.StringSetting.Placeholder
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.StringSetting.Placeholder
+  nameWithType: StringSetting.Placeholder
+- uid: SimAirport.Modding.Settings.StringSetting.Value
+  name: Value
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_Value
+  commentId: P:SimAirport.Modding.Settings.StringSetting.Value
+  fullName: SimAirport.Modding.Settings.StringSetting.Value
+  nameWithType: StringSetting.Value
+- uid: SimAirport.Modding.Settings.StringSetting.Value*
+  name: Value
+  href: api/SimAirport.Modding.Settings.StringSetting.html#SimAirport_Modding_Settings_StringSetting_Value_
+  commentId: Overload:SimAirport.Modding.Settings.StringSetting.Value
+  isSpec: "True"
+  fullName: SimAirport.Modding.Settings.StringSetting.Value
+  nameWithType: StringSetting.Value
